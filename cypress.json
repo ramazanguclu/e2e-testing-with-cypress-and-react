@@ -1,0 +1,8 @@
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "baseUrl": "http://localhost:3000",
+    "env": {
+        "email": "test@admin.com",
+        "password": "123456"
+    }
+}
