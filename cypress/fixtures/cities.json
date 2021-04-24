@@ -1,0 +1,10 @@
+{
+    "status": true,
+    "data": [{
+        "id": "1",
+        "label": "istanbul"
+    }, {
+        "id": "2",
+        "label": "izmir"
+    }]
+}
